@@ -2,9 +2,13 @@
 
 [Critical Maintenance](https://github.com/spymissions/maintenance/labels/Critical)
 
-[MK Maintenance](https://github.com/spymissions/maintenance/labels/MK)
+[MK](https://github.com/spymissions/maintenance/labels/MK)
+&nbsp;&nbsp;&nbsp;&nbsp;[BH](https://github.com/spymissions/maintenance/labels/Cambs)
+&nbsp;&nbsp;&nbsp;&nbsp;[NTN](https://github.com/spymissions/maintenance/labels/Ntn)
+&nbsp;&nbsp;&nbsp;&nbsp;[Notts](https://github.com/spymissions/maintenance/labels/Notts)
+&nbsp;&nbsp;&nbsp;&nbsp;[Croydon](https://github.com/spymissions/maintenance/labels/Croydon)
 
-[BH Maintenance](https://github.com/spymissions/maintenance/labels/Cambs)
+
 
 Title of the bug should be "Room - Short Description"
 Please keep the title ***short*** so it can be read easily.
