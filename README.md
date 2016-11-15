@@ -1,7 +1,9 @@
 # Maintenance
 
 [Critical Maintenance](https://github.com/spymissions/maintenance/labels/Critical)
+
 [MK Maintenance](https://github.com/spymissions/maintenance/labels/MK)
+
 [BH Maintenance](https://github.com/spymissions/maintenance/labels/Cambs)
 
 Title of the bug should be "Room - Short Description"
